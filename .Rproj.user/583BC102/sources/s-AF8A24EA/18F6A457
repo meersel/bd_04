@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1437610487",
+    "hash" : "0",
     "id" : "18F6A457",
-    "lastKnownWriteTime" : 1585454705,
-    "last_content_update" : 1585454705,
+    "lastKnownWriteTime" : 1585532045,
+    "last_content_update" : 1585532045,
     "path" : "C:/Users/meers/OneDrive/ME - zaken/ME - consultancy/ME - DataScience/R Practice/BD_4/config.toml",
     "project_path" : "config.toml",
     "properties" : {
+        "cursorPosition" : "8,12",
+        "scrollLine" : "0"
     },
     "read_only" : false,
     "read_only_alternatives" : [
